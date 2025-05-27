@@ -1,6 +1,8 @@
 # <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/24/F25081/external-tic-tak-toe-cross-and-circle-matrix-game-with-work-strategy-concept-business-regular-tal-revivo.png" alt="external-tic-tak-toe-cross-and-circle-matrix-game-with-work-strategy-concept-business-regular-tal-revivo"/> Tic Tac Toe Game
 
-Welcome to my **Tic Tac Toe** project – a classic two-player game with a stylish modern twist using **HTML, CSS, JavaScript and [tilt.js](https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.7.0/vanilla-tilt.min.js)** for 3D hover effects! 🎮✨
+Welcome to my **Tic Tac Toe** project – a classic two-player game with a stylish modern twist using **HTML, CSS, JavaScript and [tilt.js](https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.7.0/vanilla-tilt.min.js)** for 3D hover effects! 🎮✨ <br/>
+
+## 🔗 [Live Demo](https://tictactoespace.netlify.app/)
 
 ## 🔥 Features
 
